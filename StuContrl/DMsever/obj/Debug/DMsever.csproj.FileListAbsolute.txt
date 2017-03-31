@@ -1,0 +1,9 @@
+C:\C#.NET\StuContrl\DMsever\bin\Debug\DMsever.dll
+C:\C#.NET\StuContrl\DMsever\bin\Debug\DMsever.pdb
+C:\C#.NET\StuContrl\DMsever\bin\Debug\DMdao.dll
+C:\C#.NET\StuContrl\DMsever\bin\Debug\DMdao.pdb
+C:\C#.NET\StuContrl\DMsever\obj\Debug\DMsever.csprojResolveAssemblyReference.cache
+C:\C#.NET\StuContrl\DMsever\obj\Debug\DMsever.dll
+C:\C#.NET\StuContrl\DMsever\obj\Debug\DMsever.pdb
+C:\C#.NET\StuContrl\DMsever\bin\Debug\Mypojo.dll
+C:\C#.NET\StuContrl\DMsever\bin\Debug\Mypojo.pdb

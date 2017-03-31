@@ -1,0 +1,7 @@
+C:\C#.NET\StuContrl\DMdao\bin\Debug\DMdao.dll
+C:\C#.NET\StuContrl\DMdao\bin\Debug\DMdao.pdb
+C:\C#.NET\StuContrl\DMdao\obj\Debug\DMdao.csprojResolveAssemblyReference.cache
+C:\C#.NET\StuContrl\DMdao\obj\Debug\DMdao.dll
+C:\C#.NET\StuContrl\DMdao\obj\Debug\DMdao.pdb
+C:\C#.NET\StuContrl\DMdao\bin\Debug\Mypojo.dll
+C:\C#.NET\StuContrl\DMdao\bin\Debug\Mypojo.pdb

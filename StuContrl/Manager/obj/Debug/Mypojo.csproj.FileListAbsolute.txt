@@ -1,0 +1,5 @@
+C:\C#.NET\StuContrl\Manager\obj\Debug\Mypojo.csprojResolveAssemblyReference.cache
+C:\C#.NET\StuContrl\Manager\bin\Debug\Mypojo.dll
+C:\C#.NET\StuContrl\Manager\bin\Debug\Mypojo.pdb
+C:\C#.NET\StuContrl\Manager\obj\Debug\Mypojo.dll
+C:\C#.NET\StuContrl\Manager\obj\Debug\Mypojo.pdb
